@@ -1,0 +1,18 @@
+.card {
+    width: 20%;
+    margin: 10px;
+    padding: 5px;
+}
+
+.card img{
+    width: 100%;
+}
+
+.product-list{
+   width: 80%;
+   margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
